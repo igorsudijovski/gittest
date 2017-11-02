@@ -4,3 +4,4 @@ awesome
 
 new change in history"change 2" 
 "change 4" 
+"change 6" 
